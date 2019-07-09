@@ -820,19 +820,23 @@ h1, h2, h3, h4, h5,
       background-color: #007bff; }
 
 .footer-section {
-  padding: 7em 0;
-  background-color: #fafafa; }
-  .footer-section p {
-    font-size: 1rem; }
-  .footer-section h3 {
+  padding:7em 0em 1em;
+  background-color: #fafafa; 
+}
+.footer-section p {
+    font-size: 1rem; 
+  }
+.footer-section h3 {
     font-size: .9rem;
     letter-spacing: .1rem;
     text-transform: uppercase;
     color: #000;
     margin-bottom: 1.5rem;
-    font-weight: 900; }
-  .footer-section .footer-links li {
-    margin-bottom: 10px; }
+    font-weight: 900; 
+  }
+.footer-section .footer-links li {
+    margin-bottom: 10px; 
+}
 
 .process, .service {
   position: relative; }
